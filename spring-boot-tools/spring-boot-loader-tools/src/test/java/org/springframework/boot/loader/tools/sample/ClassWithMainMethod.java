@@ -22,6 +22,8 @@ package org.springframework.boot.loader.tools.sample;
  * @author Phillip Webb
  */
 public class ClassWithMainMethod {
+	
+	
 
 	public void run() {
 		System.out.println("Hello World");
